@@ -117,15 +117,3 @@ All algorithm design, code, and optimization were done individually, using both 
 3. Results are exported as new image files ready for Amazon/e-commerce listing.
 ---
 
-## Contact
-
-**Author:** [Doan Minh Hoang]  
-**Email:** [hoanga050998@gmail.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-## License
-
-This project is released under the MIT License.  
-You are welcome to use, modify, and learn from it.  
-For commercial use or custom adaptations, please contact me.
